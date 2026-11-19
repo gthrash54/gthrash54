@@ -17,8 +17,8 @@ In Dr. Harrison Walker's lab I work on decoding subthalamic nucleus recordings, 
 
 **Toolboxes**
 
-- [clean_dbs](https://github.com/gthrash54/clean_dbs): Walker lab toolbox for loading and cleaning intraoperative DBS recordings. Written with AI coding assistance.
-- [preprocess_dbs](https://github.com/gthrash54/preprocess_dbs): Walker lab toolbox for preprocessing cleaned intraoperative DBS recordings (LFP and ERNA). Written with AI coding assistance.
+- [clean_dbs](https://github.com/gthrash54/clean_dbs): Walker lab toolbox for loading and cleaning intraoperative DBS recordings.
+- [preprocess_dbs](https://github.com/gthrash54/preprocess_dbs): Walker lab toolbox for preprocessing cleaned intraoperative DBS recordings (LFP and ERNA).
 
 **Publications**
 
