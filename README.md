@@ -1,16 +1,29 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <img src="assets/banner-light.png" alt="Purkinje cells drawn by Santiago Ramón y Cajal, with a closed-loop stimulation diagram" width="100%">
+</picture>
+
 ### Garrett W. Thrash
 
 M.D. Candidate (c/o 2027) • Incoming Ph.D. Student, Neuroengineering (2027)<br>
 University of Alabama at Birmingham Heersink School of Medicine
 
-In Dr. Harrison Walker's lab I work on decoding subthalamic nucleus recordings, including evoked resonant neural activity (ERNA), for adaptive deep brain stimulation. My published work is in neuromodulation for restless legs syndrome, neurosurgical outcomes, and equitable access to neurological care.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/column-dark.png">
+  <img align="right" width="84" src="assets/column-light.png" alt="">
+</picture>
 
-**Selected publications**
+In Dr. Harrison Walker's lab I work on decoding subthalamic nucleus recordings, including evoked resonant neural activity (ERNA), for adaptive deep brain stimulation.
 
-- **Thrash GW**, Stacey GK, Wang E, Razi R, Townsend C, Brockington D, Holland MT. Therapeutic Deep Brain Stimulation for Restless Legs Syndrome: A Systematic Review and Meta-Analysis. *Neuromodulation: Technology at the Neural Interface* (2026). [doi](https://doi.org/10.1016/j.neurom.2026.08.008)
-- **Thrash GW**, Wang E, Brockington D, Rives C, Sun Y, Roberts AC, Das S, Pilitsis JG, Shirvalkar P, do Campo RV, Walker HC, Earley CJ, Holland MT. Neuromodulation for Restless Legs Syndrome: A Systematic Review and Mechanistic Considerations for Spinal Cord Stimulation. *Sleep and Breathing* 30(1) (2026). [doi](https://doi.org/10.1007/s11325-026-03638-7) · [pubmed](https://pubmed.ncbi.nlm.nih.gov/41806217/)
-- **Thrash GW**, Wang E, Sun Y, Walker HC, Shirvalkar P, Becker BK, Holland MT. Clinical Trials in Neuromodulatory Treatment of Drug-Resistant Hypertension and the Need for Spinal Cord Stimulation Trials: A PRISMA Systematic Review. *Bioelectronic Medicine* 10(1):28 (2024). [doi](https://doi.org/10.1186/s42234-024-00160-7) · [pubmed](https://pubmed.ncbi.nlm.nih.gov/39617923/)
+**Toolboxes**
 
-[All publications](https://garrettthrash.com/publications/)
+- [clean_dbs](https://github.com/gthrash54/clean_dbs): Walker lab toolbox for loading and cleaning intraoperative DBS recordings. Written with AI coding assistance.
+- [preprocess_dbs](https://github.com/gthrash54/preprocess_dbs): Walker lab toolbox for preprocessing cleaned intraoperative DBS recordings (LFP and ERNA). Written with AI coding assistance.
+
+**Publications**
+
+14 peer-reviewed papers in neuromodulation, neurosurgical outcomes, and equitable access to neurological care. [Full list](https://garrettthrash.com/publications/)
+
+**Writing** and **Commonplace**: coming soon on [garrettthrash.com](https://garrettthrash.com).
 
 [garrettthrash.com](https://garrettthrash.com) • [Google Scholar](https://scholar.google.com/citations?user=FJ4ulF4AAAAJ) • [ORCID](https://orcid.org/0009-0008-1061-8679) • [LinkedIn](https://www.linkedin.com/in/garrett-thrash-311709430/) • gthrash@uab.edu
